@@ -1,0 +1,13 @@
+F:\C#\MassTransit\Configuration\Configuration\bin\Debug\netcoreapp3.1\Configuration.exe
+F:\C#\MassTransit\Configuration\Configuration\bin\Debug\netcoreapp3.1\Configuration.deps.json
+F:\C#\MassTransit\Configuration\Configuration\bin\Debug\netcoreapp3.1\Configuration.runtimeconfig.json
+F:\C#\MassTransit\Configuration\Configuration\bin\Debug\netcoreapp3.1\Configuration.runtimeconfig.dev.json
+F:\C#\MassTransit\Configuration\Configuration\bin\Debug\netcoreapp3.1\Configuration.dll
+F:\C#\MassTransit\Configuration\Configuration\bin\Debug\netcoreapp3.1\Configuration.pdb
+F:\C#\MassTransit\Configuration\Configuration\obj\Debug\netcoreapp3.1\Configuration.csprojAssemblyReference.cache
+F:\C#\MassTransit\Configuration\Configuration\obj\Debug\netcoreapp3.1\Configuration.AssemblyInfoInputs.cache
+F:\C#\MassTransit\Configuration\Configuration\obj\Debug\netcoreapp3.1\Configuration.AssemblyInfo.cs
+F:\C#\MassTransit\Configuration\Configuration\obj\Debug\netcoreapp3.1\Configuration.csproj.CoreCompileInputs.cache
+F:\C#\MassTransit\Configuration\Configuration\obj\Debug\netcoreapp3.1\Configuration.dll
+F:\C#\MassTransit\Configuration\Configuration\obj\Debug\netcoreapp3.1\Configuration.pdb
+F:\C#\MassTransit\Configuration\Configuration\obj\Debug\netcoreapp3.1\Configuration.genruntimeconfig.cache
