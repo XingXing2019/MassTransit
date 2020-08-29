@@ -1,0 +1,13 @@
+F:\C#\MassTransit\Transports\Transports\bin\Debug\netcoreapp3.1\Transports.exe
+F:\C#\MassTransit\Transports\Transports\bin\Debug\netcoreapp3.1\Transports.deps.json
+F:\C#\MassTransit\Transports\Transports\bin\Debug\netcoreapp3.1\Transports.runtimeconfig.json
+F:\C#\MassTransit\Transports\Transports\bin\Debug\netcoreapp3.1\Transports.runtimeconfig.dev.json
+F:\C#\MassTransit\Transports\Transports\bin\Debug\netcoreapp3.1\Transports.dll
+F:\C#\MassTransit\Transports\Transports\bin\Debug\netcoreapp3.1\Transports.pdb
+F:\C#\MassTransit\Transports\Transports\obj\Debug\netcoreapp3.1\Transports.csprojAssemblyReference.cache
+F:\C#\MassTransit\Transports\Transports\obj\Debug\netcoreapp3.1\Transports.AssemblyInfoInputs.cache
+F:\C#\MassTransit\Transports\Transports\obj\Debug\netcoreapp3.1\Transports.AssemblyInfo.cs
+F:\C#\MassTransit\Transports\Transports\obj\Debug\netcoreapp3.1\Transports.csproj.CoreCompileInputs.cache
+F:\C#\MassTransit\Transports\Transports\obj\Debug\netcoreapp3.1\Transports.dll
+F:\C#\MassTransit\Transports\Transports\obj\Debug\netcoreapp3.1\Transports.pdb
+F:\C#\MassTransit\Transports\Transports\obj\Debug\netcoreapp3.1\Transports.genruntimeconfig.cache
