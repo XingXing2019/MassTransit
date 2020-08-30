@@ -1,0 +1,9 @@
+F:\C#\MassTransit\Message\Model\bin\Debug\netcoreapp3.1\Model.deps.json
+F:\C#\MassTransit\Message\Model\bin\Debug\netcoreapp3.1\Model.dll
+F:\C#\MassTransit\Message\Model\obj\Debug\netcoreapp3.1\Model.csprojAssemblyReference.cache
+F:\C#\MassTransit\Message\Model\obj\Debug\netcoreapp3.1\Model.AssemblyInfoInputs.cache
+F:\C#\MassTransit\Message\Model\obj\Debug\netcoreapp3.1\Model.AssemblyInfo.cs
+F:\C#\MassTransit\Message\Model\bin\Debug\netcoreapp3.1\Model.pdb
+F:\C#\MassTransit\Message\Model\obj\Debug\netcoreapp3.1\Model.csproj.CoreCompileInputs.cache
+F:\C#\MassTransit\Message\Model\obj\Debug\netcoreapp3.1\Model.dll
+F:\C#\MassTransit\Message\Model\obj\Debug\netcoreapp3.1\Model.pdb

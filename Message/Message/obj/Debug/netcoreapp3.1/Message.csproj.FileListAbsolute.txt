@@ -1,0 +1,13 @@
+F:\C#\MassTransit\Message\Message\bin\Debug\netcoreapp3.1\Message.exe
+F:\C#\MassTransit\Message\Message\bin\Debug\netcoreapp3.1\Message.deps.json
+F:\C#\MassTransit\Message\Message\bin\Debug\netcoreapp3.1\Message.runtimeconfig.json
+F:\C#\MassTransit\Message\Message\bin\Debug\netcoreapp3.1\Message.runtimeconfig.dev.json
+F:\C#\MassTransit\Message\Message\bin\Debug\netcoreapp3.1\Message.dll
+F:\C#\MassTransit\Message\Message\bin\Debug\netcoreapp3.1\Message.pdb
+F:\C#\MassTransit\Message\Message\obj\Debug\netcoreapp3.1\Message.csprojAssemblyReference.cache
+F:\C#\MassTransit\Message\Message\obj\Debug\netcoreapp3.1\Message.AssemblyInfoInputs.cache
+F:\C#\MassTransit\Message\Message\obj\Debug\netcoreapp3.1\Message.AssemblyInfo.cs
+F:\C#\MassTransit\Message\Message\obj\Debug\netcoreapp3.1\Message.csproj.CoreCompileInputs.cache
+F:\C#\MassTransit\Message\Message\obj\Debug\netcoreapp3.1\Message.dll
+F:\C#\MassTransit\Message\Message\obj\Debug\netcoreapp3.1\Message.pdb
+F:\C#\MassTransit\Message\Message\obj\Debug\netcoreapp3.1\Message.genruntimeconfig.cache
