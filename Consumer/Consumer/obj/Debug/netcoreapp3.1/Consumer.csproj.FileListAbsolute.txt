@@ -1,0 +1,13 @@
+F:\C#\MassTransit\Consumer\Consumer\bin\Debug\netcoreapp3.1\Consumer.exe
+F:\C#\MassTransit\Consumer\Consumer\bin\Debug\netcoreapp3.1\Consumer.deps.json
+F:\C#\MassTransit\Consumer\Consumer\bin\Debug\netcoreapp3.1\Consumer.runtimeconfig.json
+F:\C#\MassTransit\Consumer\Consumer\bin\Debug\netcoreapp3.1\Consumer.runtimeconfig.dev.json
+F:\C#\MassTransit\Consumer\Consumer\bin\Debug\netcoreapp3.1\Consumer.dll
+F:\C#\MassTransit\Consumer\Consumer\bin\Debug\netcoreapp3.1\Consumer.pdb
+F:\C#\MassTransit\Consumer\Consumer\obj\Debug\netcoreapp3.1\Consumer.csprojAssemblyReference.cache
+F:\C#\MassTransit\Consumer\Consumer\obj\Debug\netcoreapp3.1\Consumer.AssemblyInfoInputs.cache
+F:\C#\MassTransit\Consumer\Consumer\obj\Debug\netcoreapp3.1\Consumer.AssemblyInfo.cs
+F:\C#\MassTransit\Consumer\Consumer\obj\Debug\netcoreapp3.1\Consumer.csproj.CoreCompileInputs.cache
+F:\C#\MassTransit\Consumer\Consumer\obj\Debug\netcoreapp3.1\Consumer.dll
+F:\C#\MassTransit\Consumer\Consumer\obj\Debug\netcoreapp3.1\Consumer.pdb
+F:\C#\MassTransit\Consumer\Consumer\obj\Debug\netcoreapp3.1\Consumer.genruntimeconfig.cache
