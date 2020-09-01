@@ -1,0 +1,13 @@
+F:\C#\MassTransit\Producer\Producer\bin\Debug\netcoreapp3.1\Producer.exe
+F:\C#\MassTransit\Producer\Producer\bin\Debug\netcoreapp3.1\Producer.deps.json
+F:\C#\MassTransit\Producer\Producer\bin\Debug\netcoreapp3.1\Producer.runtimeconfig.json
+F:\C#\MassTransit\Producer\Producer\bin\Debug\netcoreapp3.1\Producer.runtimeconfig.dev.json
+F:\C#\MassTransit\Producer\Producer\bin\Debug\netcoreapp3.1\Producer.dll
+F:\C#\MassTransit\Producer\Producer\bin\Debug\netcoreapp3.1\Producer.pdb
+F:\C#\MassTransit\Producer\Producer\obj\Debug\netcoreapp3.1\Producer.csprojAssemblyReference.cache
+F:\C#\MassTransit\Producer\Producer\obj\Debug\netcoreapp3.1\Producer.AssemblyInfoInputs.cache
+F:\C#\MassTransit\Producer\Producer\obj\Debug\netcoreapp3.1\Producer.AssemblyInfo.cs
+F:\C#\MassTransit\Producer\Producer\obj\Debug\netcoreapp3.1\Producer.csproj.CoreCompileInputs.cache
+F:\C#\MassTransit\Producer\Producer\obj\Debug\netcoreapp3.1\Producer.dll
+F:\C#\MassTransit\Producer\Producer\obj\Debug\netcoreapp3.1\Producer.pdb
+F:\C#\MassTransit\Producer\Producer\obj\Debug\netcoreapp3.1\Producer.genruntimeconfig.cache
