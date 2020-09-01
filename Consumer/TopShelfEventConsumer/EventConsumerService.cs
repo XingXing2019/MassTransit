@@ -2,6 +2,7 @@
 using System.Threading;
 using MassTransit;
 using Model.Consumer;
+using Model.Event;
 using Topshelf;
 
 namespace TopShelfEventConsumer
@@ -23,6 +24,12 @@ namespace TopShelfEventConsumer
                 cfg.ReceiveEndpoint(queue, e =>
                 {
                     e.Consumer<OrderSubmittedConsumer>();
+
+                    // Simple msg handler to consume msg on a receive endpoint
+                    e.Handler<IOrderSubmitted>(async context =>
+                    {
+                        await Console.Out.WriteLineAsync($"Order submitted event received");
+                    });
                 });
             });
 
