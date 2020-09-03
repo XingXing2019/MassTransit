@@ -1,0 +1,7 @@
+F:\C#\MassTransit\DirectExchange\DirectExchange\bin\Debug\DirectExchange.exe.config
+F:\C#\MassTransit\DirectExchange\DirectExchange\bin\Debug\DirectExchange.exe
+F:\C#\MassTransit\DirectExchange\DirectExchange\bin\Debug\DirectExchange.pdb
+F:\C#\MassTransit\DirectExchange\DirectExchange\obj\Debug\DirectExchange.csprojAssemblyReference.cache
+F:\C#\MassTransit\DirectExchange\DirectExchange\obj\Debug\DirectExchange.csproj.CoreCompileInputs.cache
+F:\C#\MassTransit\DirectExchange\DirectExchange\obj\Debug\DirectExchange.exe
+F:\C#\MassTransit\DirectExchange\DirectExchange\obj\Debug\DirectExchange.pdb
