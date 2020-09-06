@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Automatonymous/1.0.0": {
+        "runtime": {
+          "Automatonymous.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Automatonymous/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

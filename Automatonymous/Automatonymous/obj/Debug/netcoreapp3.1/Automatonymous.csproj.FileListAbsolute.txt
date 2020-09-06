@@ -1,0 +1,13 @@
+F:\C#\MassTransit\Automatonymous\Automatonymous\bin\Debug\netcoreapp3.1\Automatonymous.exe
+F:\C#\MassTransit\Automatonymous\Automatonymous\bin\Debug\netcoreapp3.1\Automatonymous.deps.json
+F:\C#\MassTransit\Automatonymous\Automatonymous\bin\Debug\netcoreapp3.1\Automatonymous.runtimeconfig.json
+F:\C#\MassTransit\Automatonymous\Automatonymous\bin\Debug\netcoreapp3.1\Automatonymous.runtimeconfig.dev.json
+F:\C#\MassTransit\Automatonymous\Automatonymous\bin\Debug\netcoreapp3.1\Automatonymous.dll
+F:\C#\MassTransit\Automatonymous\Automatonymous\bin\Debug\netcoreapp3.1\Automatonymous.pdb
+F:\C#\MassTransit\Automatonymous\Automatonymous\obj\Debug\netcoreapp3.1\Automatonymous.csprojAssemblyReference.cache
+F:\C#\MassTransit\Automatonymous\Automatonymous\obj\Debug\netcoreapp3.1\Automatonymous.AssemblyInfoInputs.cache
+F:\C#\MassTransit\Automatonymous\Automatonymous\obj\Debug\netcoreapp3.1\Automatonymous.AssemblyInfo.cs
+F:\C#\MassTransit\Automatonymous\Automatonymous\obj\Debug\netcoreapp3.1\Automatonymous.csproj.CoreCompileInputs.cache
+F:\C#\MassTransit\Automatonymous\Automatonymous\obj\Debug\netcoreapp3.1\Automatonymous.dll
+F:\C#\MassTransit\Automatonymous\Automatonymous\obj\Debug\netcoreapp3.1\Automatonymous.pdb
+F:\C#\MassTransit\Automatonymous\Automatonymous\obj\Debug\netcoreapp3.1\Automatonymous.genruntimeconfig.cache
