@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Reflection.Metadata.Ecma335;
 using Automatonymous;
+using MassTransit;
 using Model.Command;
 using Model.Event;
 using Model.State;
@@ -18,6 +19,7 @@ namespace Model.StateMachine
         public Event<OrderAccepted> OrderAccepted { get; set; }
         public Event<OrderCanceled> OrderCanceled { get; set; }
         public Event<OrderReady> OrderReady { get; set; }
+        public Event<RequestOrderCancellation> OrderCancellationRequested { get; set; }
 
 
         public OrderStateMachine()
@@ -48,6 +50,14 @@ namespace Model.StateMachine
                     CorrelationId = context.Message.OrderId
                 });
             });
+            Event(() => OrderCancellationRequested, e =>
+            {
+                e.CorrelateById(context => context.Message.OrderId);
+                e.OnMissingInstance(m =>
+                {
+                    return m.ExecuteAsync(x => x.RespondAsync<OrderNotFound>(new {x.Message.OrderId}));
+                });
+            });
 
             // Declares event on state machine with specific date type, and allows the correlation of event to be configured
             Event(() => OrderCanceled, e => e.CorrelateById(context => context.Message.OrderId));
@@ -55,7 +65,9 @@ namespace Model.StateMachine
             // Configures the behave of the state machine when specific event was received
             Initially(
                 When(SubmitOrder)
-                    .TransitionTo(Submitted), 
+                    .PublishAsync(context => context.Init<OrderSubmitted>(new {OrderId = context.Instance.CorrelationId}))
+                    .SendAsync(context => context.Init<UpdateAccountHistory>(new {OrderId = context.Instance.CorrelationId}))
+                    .TransitionTo(Submitted),
                 When(OrderAccepted)
                     .TransitionTo(Accepted));
 
